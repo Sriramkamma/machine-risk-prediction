@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# Python virtual environment
+.venv/
+venv/
+
+# ML generated files
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
