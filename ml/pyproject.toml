@@ -1,0 +1,11 @@
+[project]
+name = "machine-risk-prediction"
+version = "1.0.0"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "scikit-learn",
+    "pandas",
+    "joblib"
+]
