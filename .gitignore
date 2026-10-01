@@ -17,7 +17,7 @@ venv/
 
 # ML generated files
 *.pkl
-*.joblib
+
 
 # Logs
 *.log
@@ -28,3 +28,5 @@ Thumbs.db
 
 # VS Code
 .vscode/
+.vercel
+.env*
